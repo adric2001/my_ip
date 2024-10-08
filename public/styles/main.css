@@ -1,0 +1,11 @@
+.grid-container {
+    display: grid;
+    height: 100vh;
+    align-content: center;
+    place-items: center;
+}
+.header-container h1 {
+margin-bottom: 5rem;
+}
+
+
